@@ -1,0 +1,8 @@
+[
+  {"sku": "MUG-01", "name": "Ceramic mug", "category": "kitchen", "unit_price": 8.00},
+  {"sku": "TEE-BLK", "name": "T-shirt, black", "category": "clothing", "unit_price": 19.00},
+  {"sku": "TEE-WHT", "name": "T-shirt, white", "category": "clothing", "unit_price": 19.00},
+  {"sku": "CAP-RED", "name": "Cap, red", "category": "clothing", "unit_price": 14.00},
+  {"sku": "BAG-TOTE", "name": "Tote bag", "category": "bags", "unit_price": 24.00},
+  {"sku": "PEN-SET", "name": "Pen set", "category": "stationery", "unit_price": 6.50}
+]
