@@ -1,0 +1,7 @@
+{
+  "sales": "../data/sales_messy.csv",
+  "products": "../data/products.json",
+  "out_dir": "out",
+  "formats": ["json", "csv", "text"],
+  "region": ""
+}
